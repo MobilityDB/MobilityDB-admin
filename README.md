@@ -1,2 +1,2 @@
 # admin
-Adminstrative work of the MobilityDB project
+Administrative work of the MobilityDB project
